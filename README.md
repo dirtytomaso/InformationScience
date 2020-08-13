@@ -2,7 +2,7 @@
 
 dirty tomaso - new
 
-This document describes the course "Information Science" for the UAntwerp Master of Linguistics (from 2021-2022 onwards: "Master of Digital Text Analysis").
+This document describes the course "Information Science" for the Univerity of Antwerp Master of Linguistics (from 2021-2022 onwards: "Master of Digital Text Analysis").
 
 ## Course details
 
